@@ -7,7 +7,7 @@ This Android application is collaborative projects, developed by Google India Sc
 (Coming soon)
 
 # Moderators
-Moderator of this projects is [@iamhshaikh](https://github.com/iamhshaikh)
+Moderator of this projects is [Hannan Shaikh](https://github.com/iamhshaikh)
 
 ### co-moderators
 (Updating soon)

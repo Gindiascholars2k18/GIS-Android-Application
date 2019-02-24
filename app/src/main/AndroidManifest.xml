@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"
-            android:theme="@style/MaterialDrawerTheme"/>
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar"/>
     </application>
 
 </manifest>
